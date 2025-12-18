@@ -1,0 +1,32 @@
+Sales Analysis Summary
+
+This project analyzes a sales dataset downloaded from Kaggle. 
+The dataset contains transaction-level sales data recorded across different product
+categories throughout the year 2023.
+
+Key Observations:
+
+• Sales are distributed across four major product categories: Clothing, Electronics,
+  Furniture, and Food.
+• Clothing recorded the highest overall sales contribution.
+• Furniture and Electronics showed strong and consistent performance.
+• Food category contributed the smallest share but remained stable over time.
+
+Time Series Analysis:
+
+• Daily sales data shows high variability, indicating frequent fluctuations
+  in transaction volume.
+• Monthly aggregation reveals stable sales patterns with moderate ups and downs.
+• Quarterly analysis highlights consistent performance across most quarters.
+• A drop in the final month/quarter is observed due to limited data availability
+  for the period.
+
+Visualization Summary:
+
+• Line charts were used to represent sales trends over time.
+• Monthly and quarterly aggregations helped identify broader sales patterns.
+• Bar charts were used to compare total sales across product categories.
+• Pie charts were used to visualize category-wise sales contribution.
+
+This analysis demonstrates effective use of time-series and categorical
+visualizations for sales data exploration.
