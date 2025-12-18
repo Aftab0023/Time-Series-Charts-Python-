@@ -1,12 +1,9 @@
-```markdown
+---
+
 # 📊 Sales Data Analysis: Time Series & Category Insights
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Library-Pandas-orange)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-green)](https://matplotlib.org/)
-[![Jupyter](https://img.shields.io/badge/Tools-Jupyter%20Notebook-F37626)](https://jupyter.org/)
-
 ## 📌 Project Overview
+
 This project provides a comprehensive analysis of sales performance for the year 2023. By leveraging **Time-Series analysis** and **Categorical data visualization**, the project transforms raw Kaggle transaction data into actionable business insights.
 
 The analysis focuses on identifying seasonal trends, high-performing product categories, and overall revenue distribution.
@@ -14,6 +11,7 @@ The analysis focuses on identifying seasonal trends, high-performing product cat
 ---
 
 ## 🎯 Project Objectives
+
 * **Trend Analysis:** Map daily, monthly, and quarterly sales fluctuations.
 * **Categorical Comparison:** Evaluate performance across different product lines.
 * **Market Share Visualization:** Determine the percentage contribution of each category to total revenue.
@@ -22,6 +20,7 @@ The analysis focuses on identifying seasonal trends, high-performing product cat
 ---
 
 ## 🛠 Technologies Used
+
 * **Python:** Core programming logic.
 * **Jupyter Notebook:** Interactive environment for data exploration and visualization.
 * **Pandas:** Data cleaning, date parsing, and complex aggregations.
@@ -30,20 +29,24 @@ The analysis focuses on identifying seasonal trends, high-performing product cat
 ---
 
 ## 📂 Dataset Information
-* **Source:** Kaggle (Sales Transactions Dataset)
+
+* **Source:** [Kaggle](https://www.kaggle.com/datasets/vinothkannaece/sales-dataset) (Sales Transactions Dataset)
 * **Timeframe:** January 2023 – December 2023
 * **Key Features:**
-    * `Sale_Date`: Temporal data used for time-series indexing.
-    * `Product_Category`: Grouping variable for comparative analysis.
-    * `Sales_Amount`: Numerical target for aggregation.
+* `Sale_Date`: Temporal data used for time-series indexing.
+* `Product_Category`: Grouping variable for comparative analysis.
+* `Sales_Amount`: Numerical target for aggregation.
+
+
 
 ---
 
 ## 📈 Visualizations & Insights
+
 The analysis produces five key visual assets:
 
 | Visualization | Purpose | Key Insight |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | **Sales Over Time** | Daily Volatility | Highlights day-to-day transaction peaks. |
 | **Monthly Trend** | Seasonal Patterns | Shows stable performance throughout 2023. |
 | **Quarterly Trend** | Long-term Growth | Provides a high-level view of fiscal health. |
@@ -55,11 +58,13 @@ The analysis produces five key visual assets:
 ---
 
 ## 🚀 How to Use
+
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/Project-1-Time-Series-Charts.git](https://github.com/your-username/Project-1-Time-Series-Charts.git)
+```bash
+git clone https://github.com/your-username/Time-Series-Charts.git
 
 ```
+
 
 2. **Install dependencies:**
 ```bash
@@ -106,11 +111,7 @@ This project demonstrates a complete data workflow—from CSV ingestion in a Jup
 
 **Aftab Tamboli**
 
-* [LinkedIn](https://www.linkedin.com/in/your-profile)
-* [GitHub](https://www.google.com/search?q=https://github.com/your-username)
+* [LinkedIn](https://www.linkedin.com/in/aftab0023/)
+* [GitHub](https://github.com/Aftab0023/)
 
-```
-
-Would you like me to help you format the `summary.txt` file content as well?
-
-```
+---
